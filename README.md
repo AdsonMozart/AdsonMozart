@@ -43,7 +43,3 @@ MySQL | PostgreSQL | SQL Server | SQLite | MongoDB
 Git | JUnit | PyTest | Docker | Insomnia
 ---- | ---- | ---- | ---- | ----
 <img align="center" alt="mozar7-git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> | <img align="center" alt="mozar7-junit" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg"> | <img align="center" alt="mozar7-pytest" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg"> | <img align="center" alt="mozar7-docker" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> | <img align="center" alt="mozar7-insomnia" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
-
-##
- 
-![snake gif](https://github.com/AdsonMozart/AdsonMozart/blob/output/github-contribution-grid-snake.svg)
