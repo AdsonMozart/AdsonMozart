@@ -7,17 +7,6 @@ Gosto de enfrentar desafios complexos, pois acredito que essa complexidade nos o
 
 Além das habilidades técnicas, valorizo muito a comunicação, o trabalho em equipe, a vontade genuína em aprender, a persistência, em minha perspectiva são pilares fundamentais para entregar resultados reais, positivos e significativos. Meu objetivo é continuar evoluindo, contribuir em projetos inovadores e construir uma carreira sólida naquilo que mais amo exercer: o desenvolvimento de software.
 
-
-## **Troféus** 🏆
-<img align="center" alt="mozar7-trophies" height="830" width="830" src="https://github-profile-trophy.vercel.app/?username=AdsonMozart&theme=onedark">
-
-## **Estatísticas** 📊
-<div>  
-  <a href="https://github.com/AdsonMozart">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdsonMozart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonMozart&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 ## **Linguagens, frameworks e ferramentas** ⚙️
 
 ### **Linguagens:**
