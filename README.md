@@ -11,15 +11,15 @@ Além das habilidades técnicas, valorizo muito a comunicação, o trabalho em e
 
 ### **Linguagens:**
 
-Java | Python | Javascript | Typescript
----- | ---- | ---- | ----
-<img align="center" alt="mozar7-java" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> | <img align="center" alt="mozar7-python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img align="center" alt="mozar7-javascript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> | <img align="center" alt="mozar7-typescript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+Java | Python | Javascript
+---- | ---- | ----
+<img align="center" alt="mozar7-java" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> | <img align="center" alt="mozar7-python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> | <img align="center" alt="mozar7-javascript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> | <img align="center" alt="mozar7-typescript" height="45" width="45" 
 
 ### **Frameworks:**
 
-Spring | Flask | Angular | Bootstrap
+Spring | Flask | React | Vite
 ---- | ---- | ---- | ----
-<img align="center" alt="mozar7-spring" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> | <img align="center" alt="mozar7-flask" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> | <img align="center" alt="mozar7-angular" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> | <img align="center" alt="mozar7-bootstrap" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="mozar7-spring" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> | <img align="center" alt="mozar7-flask" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> | <img align="center" alt="mozar7-angular" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> | <img align="center" alt="mozar7-react" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
 
 ### **SGBDs:**
 
